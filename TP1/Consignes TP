@@ -1,0 +1,5 @@
+Consignes du TP :
+
+A partir des diapos de présentation, réaliser sur Netlogo un modèle de Réseau d'itérations couplées, donnant la possibilité de modifier la valeur du couplage global ainsi que la valeur du paramètre de contrôle que l'on considèrera comme global également.
+
+De même, réaliser une simulation de flocking utilisant le modèle précédent en intégrant cette fois la dynamique "logistique" au sein de particules mobiles. Comme précédemment, on donnera la possibilité dans l'interface de modifier le couplage global, et de modifier les paramètres de contrôles soit en leur donnant une valeur identique pour tous, soit en leur donnant une valeur aléatoire pour chaque agent. 
